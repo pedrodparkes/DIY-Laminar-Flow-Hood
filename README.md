@@ -30,6 +30,8 @@
 
 ## <b>3.1 HEPA-фильтр </b>
 
+<b>[Паспорт HEPA](docs/Laminar_details.pdf)
+
 <br/><br/>
 
 ## <b> 3.2 Вентилятор </b>
